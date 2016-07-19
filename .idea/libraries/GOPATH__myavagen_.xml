@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;myavagen&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/go/src/os" />
+      <root url="file://$USER_HOME$/Downloads/go/src/lib9" />
+      <root url="file://$USER_HOME$/Downloads/go/src/builtin" />
+      <root url="file://$USER_HOME$/Downloads/go/src/go" />
+      <root url="file://$USER_HOME$/Downloads/go/src/bytes" />
+      <root url="file://$USER_HOME$/Downloads/go/src/time" />
+      <root url="file://$USER_HOME$/Downloads/go/src/container" />
+      <root url="file://$USER_HOME$/Downloads/go/src/mime" />
+      <root url="file://$USER_HOME$/Downloads/go/src/fmt" />
+      <root url="file://$USER_HOME$/Downloads/go/src/path" />
+      <root url="file://$USER_HOME$/Downloads/go/src/reflect" />
+      <root url="file://$USER_HOME$/Downloads/go/src/html" />
+      <root url="file://$USER_HOME$/Downloads/go/src/liblink" />
+      <root url="file://$USER_HOME$/Downloads/go/src/text" />
+      <root url="file://$USER_HOME$/Downloads/go/src/net" />
+      <root url="file://$USER_HOME$/Downloads/go/src/image" />
+      <root url="file://$USER_HOME$/Downloads/go/src/libbio" />
+      <root url="file://$USER_HOME$/Downloads/go/src/compress" />
+      <root url="file://$USER_HOME$/Downloads/go/src/io" />
+      <root url="file://$USER_HOME$/Downloads/go/src/testing" />
+      <root url="file://$USER_HOME$/Downloads/go/src/index" />
+      <root url="file://$USER_HOME$/Downloads/go/src/runtime" />
+      <root url="file://$USER_HOME$/Downloads/go/src/archive" />
+      <root url="file://$USER_HOME$/Downloads/go/src/sort" />
+      <root url="file://$USER_HOME$/Downloads/go/src/encoding" />
+      <root url="file://$USER_HOME$/Downloads/go/src/sync" />
+      <root url="file://$USER_HOME$/Downloads/go/src/crypto" />
+      <root url="file://$USER_HOME$/Downloads/go/src/github.com" />
+      <root url="file://$USER_HOME$/Downloads/go/src/strconv" />
+      <root url="file://$USER_HOME$/Downloads/go/src/unicode" />
+      <root url="file://$USER_HOME$/Downloads/go/src/cmd" />
+      <root url="file://$USER_HOME$/Downloads/go/src/math" />
+      <root url="file://$USER_HOME$/Downloads/go/src/errors" />
+      <root url="file://$USER_HOME$/Downloads/go/src/hash" />
+      <root url="file://$USER_HOME$/Downloads/go/src/regexp" />
+      <root url="file://$USER_HOME$/Downloads/go/src/syscall" />
+      <root url="file://$USER_HOME$/Downloads/go/src/bufio" />
+      <root url="file://$USER_HOME$/Downloads/go/src/internal" />
+      <root url="file://$USER_HOME$/Downloads/go/src/expvar" />
+      <root url="file://$USER_HOME$/Downloads/go/src/flag" />
+      <root url="file://$USER_HOME$/Downloads/go/src/log" />
+      <root url="file://$USER_HOME$/Downloads/go/src/unsafe" />
+      <root url="file://$USER_HOME$/Downloads/go/src/database" />
+      <root url="file://$USER_HOME$/Downloads/go/src/strings" />
+      <root url="file://$USER_HOME$/Downloads/go/src/debug" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
